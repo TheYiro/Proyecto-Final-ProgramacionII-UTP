@@ -1,6 +1,12 @@
-# ALMACEN LAS MECHAS
+# ALMACEN LAS MECHAS 🛍️
 
-![C](https://img.shields.io/badge/language-C-blue)
+![image](https://github.com/TheYiro/Proyecto-Final-ProgramacionII-UTP/assets/71678926/b4cc3de6-d083-4232-9c6d-03034f4c8ba3)
+
+<h1 align="center">
+  
+**Lenguaje:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  
+</h1>
 
 ---
 
@@ -19,6 +25,7 @@
 - [Ejemplo de Ejecución](#ejemplo-de-ejecución)
 - [Créditos](#créditos)
 - [Imágenes](#imágenes)
+- [Estructura](#estructura)
 
 ---
 
@@ -111,10 +118,39 @@ Ingrese su contraseña: ****
 5. Salir
 Seleccione una opción:
 ```
+
+---
+
+## Estructura
+
+```plaintext
+almacen-las-mechas/
+│   ├── main.c
+│   ├── users.txt
+│   ├── ventas.txt
+│   ├── ventasdia.txt
+└── ├── compras.txt
+```
 ---
 
 ## Créditos
 
-Código realizado por Jerónimo Mape Soto - 1088826255 - Programación II.
+Código realizado por Jerónimo Mape Soto - 1088826255 - Programación II. - Universidad Tecnologica de Pereira (UTP).
+
+---
 
 ## Imágenes
+![image](https://github.com/TheYiro/Proyecto-Final-ProgramacionII-UTP/assets/71678926/fdb36892-6308-49fc-bd56-97e1ae7524c3)
+<br> *users.txt - Información de validación de credenciales.* </br>
+
+![image](https://github.com/TheYiro/Proyecto-Final-ProgramacionII-UTP/assets/71678926/294e3f67-8f00-4550-b87c-aaa34c631db7)
+<br>*ventas.txt - Ventas realizadas desde el codigo alamacenadas con su template.* </br>
+
+![image](https://github.com/TheYiro/Proyecto-Final-ProgramacionII-UTP/assets/71678926/72c0801f-41ea-4ca7-84f8-e87ba0668163)
+<br>*ventasdia.txt - Ventas realizadas desde otra opción del menú del codigo, se llena con su debia template.* </br>
+
+![image](https://github.com/TheYiro/Proyecto-Final-ProgramacionII-UTP/assets/71678926/4fd2f572-61e6-4fa4-a4dc-ecd937fe7efa)
+<br>*compras.txt - Informe de compras realizadas y almacenadas con su debida template.* </br>
+
+<h3 align="center"> By: 𝒥𝑜𝒶𝒸𝑜✨ </h3>
+
