@@ -1,0 +1,27 @@
+-- Resumen --
+Accion: Compra producto
+cod Producto: 123
+Producto: Camisa
+Unidades: 2
+Valor Unidad: 1300
+Medio de pago: 2
+Total Compra: 2600
+--------------------------------
+-- Resumen --
+Accion: Compra producto
+cod Producto: 123
+Producto: Camisa
+Unidades: 2
+Valor Unidad: 1300
+Medio de pago: 2
+Total Compra: 2600
+--------------------------------
+-- Resumen --
+Accion: Compra producto
+cod Producto: 789
+Producto: Medias
+Unidades: 2
+Valor Unidad: 800
+Medio de pago: 2
+Total Compra: 1600
+--------------------------------

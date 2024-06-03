@@ -1,0 +1,4 @@
+medio pago: 1 - valor venta: 1000
+medio pago: 2 - valor venta: 8400
+medio pago: 2 - valor venta: 7500
+medio pago: 1 - valor venta: 3000

@@ -1,0 +1,32 @@
+Accion: Venta
+Cod Producto: 789
+Producto: Medias
+Unidades: 1
+Valor Unidad: 1000
+Medio de pago: 1
+Total Venta: 1000
+--------------------------------
+Accion: Venta
+Cod Producto: 234
+Producto: Chaqueta
+Unidades: 2
+Valor Unidad: 4200
+Medio de pago: 2
+Total Venta: 8400
+--------------------------------
+Accion: Venta
+Cod Producto: 123
+Producto: Camisa
+Unidades: 5
+Valor Unidad: 1500
+Medio de pago: 2
+Total Venta: 7500
+--------------------------------
+Accion: Venta
+Cod Producto: 123
+Producto: Camisa
+Unidades: 2
+Valor Unidad: 1500
+Medio de pago: 1
+Total Venta: 3000
+--------------------------------
