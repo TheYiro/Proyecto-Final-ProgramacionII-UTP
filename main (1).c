@@ -496,4 +496,10 @@ void mostrarVentasDelDia() {
     }
 }
 
+// ⠀⠀⠀⠀⣄⠀⠀⠀
+// ⢰⣤⣀⣼⣿⠀⠀⠀
+// ⠀⣱⠆⠀⢨⣓⣦⠄
+// ⠴⠷⠒⢆⣿⠅⠀⠀
+// ⠀⠀⠀⠈⠋⠂⠀
+
 //CODIGO REALIZADO POR JERONIMO MAPE SOTO - 1088826255 - PROGRAMACIÓN II
